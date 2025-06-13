@@ -1,0 +1,118 @@
+[
+  {
+    "CSV": "https://hackerone.com/teams/centene_vdp/assets/download_csv.csv",
+    "BURP": "https://hackerone.com/teams/centene_vdp/assets/download_burp_project_file.json"
+  },
+  {
+    "CSV": "https://hackerone.com/teams/alibaba_vdp/assets/download_csv.csv",
+    "BURP": "https://hackerone.com/teams/alibaba_vdp/assets/download_burp_project_file.json"
+  },
+  {
+    "CSV": "https://hackerone.com/teams/hubspot/assets/download_csv.csv",
+    "BURP": "https://hackerone.com/teams/hubspot/assets/download_burp_project_file.json"
+  },
+  {
+    "CSV": "https://hackerone.com/teams/uber/assets/download_csv.csv",
+    "BURP": "https://hackerone.com/teams/uber/assets/download_burp_project_file.json"
+  },
+  {
+    "CSV": "https://hackerone.com/teams/audible/assets/download_csv.csv",
+    "BURP": "https://hackerone.com/teams/audible/assets/download_burp_project_file.json"
+  },
+  {
+    "CSV": "https://hackerone.com/teams/braze_inc/assets/download_csv.csv",
+    "BURP": "https://hackerone.com/teams/braze_inc/assets/download_burp_project_file.json"
+  },
+  {
+    "CSV": "https://hackerone.com/teams/corebridge_financial/assets/download_csv.csv",
+    "BURP": "https://hackerone.com/teams/corebridge_financial/assets/download_burp_project_file.json"
+  },
+  {
+    "CSV": "https://hackerone.com/teams/dust/assets/download_csv.csv",
+    "BURP": "https://hackerone.com/teams/dust/assets/download_burp_project_file.json"
+  },
+  {
+    "CSV": "https://hackerone.com/teams/experian/assets/download_csv.csv",
+    "BURP": "https://hackerone.com/teams/experian/assets/download_burp_project_file.json"
+  },
+  {
+    "CSV": "https://hackerone.com/teams/ferrero/assets/download_csv.csv",
+    "BURP": "https://hackerone.com/teams/ferrero/assets/download_burp_project_file.json"
+  },
+  {
+    "CSV": "https://hackerone.com/teams/flipkart/assets/download_csv.csv",
+    "BURP": "https://hackerone.com/teams/flipkart/assets/download_burp_project_file.json"
+  },
+  {
+    "CSV": "https://hackerone.com/teams/hemi_labs_vdp/assets/download_csv.csv",
+    "BURP": "https://hackerone.com/teams/hemi_labs_vdp/assets/download_burp_project_file.json"
+  },
+  {
+    "CSV": "https://hackerone.com/teams/hertz/assets/download_csv.csv",
+    "BURP": "https://hackerone.com/teams/hertz/assets/download_burp_project_file.json"
+  },
+  {
+    "CSV": "https://hackerone.com/teams/hex/assets/download_csv.csv",
+    "BURP": "https://hackerone.com/teams/hex/assets/download_burp_project_file.json"
+  },
+  {
+    "CSV": "https://hackerone.com/teams/kraken-tech/assets/download_csv.csv",
+    "BURP": "https://hackerone.com/teams/kraken-tech/assets/download_burp_project_file.json"
+  },
+  {
+    "CSV": "https://hackerone.com/teams/lichess/assets/download_csv.csv",
+    "BURP": "https://hackerone.com/teams/lichess/assets/download_burp_project_file.json"
+  },
+  {
+    "CSV": "https://hackerone.com/teams/neon_bbp/assets/download_csv.csv",
+    "BURP": "https://hackerone.com/teams/neon_bbp/assets/download_burp_project_file.json"
+  },
+  {
+    "CSV": "https://hackerone.com/teams/nerdwallet_vdp/assets/download_csv.csv",
+    "BURP": "https://hackerone.com/teams/nerdwallet_vdp/assets/download_burp_project_file.json"
+  },
+  {
+    "CSV": "https://hackerone.com/teams/oppo_bbp/assets/download_csv.csv",
+    "BURP": "https://hackerone.com/teams/oppo_bbp/assets/download_burp_project_file.json"
+  },
+  {
+    "CSV": "https://hackerone.com/teams/penn_entertainment/assets/download_csv.csv",
+    "BURP": "https://hackerone.com/teams/penn_entertainment/assets/download_burp_project_file.json"
+  },
+  {
+    "CSV": "https://hackerone.com/teams/recreation_gov_vdp/assets/download_csv.csv",
+    "BURP": "https://hackerone.com/teams/recreation_gov_vdp/assets/download_burp_project_file.json"
+  },
+  {
+    "CSV": "https://hackerone.com/teams/silabs/assets/download_csv.csv",
+    "BURP": "https://hackerone.com/teams/silabs/assets/download_burp_project_file.json"
+  },
+  {
+    "CSV": "https://hackerone.com/teams/syfe_bbp/assets/download_csv.csv",
+    "BURP": "https://hackerone.com/teams/syfe_bbp/assets/download_burp_project_file.json"
+  },
+  {
+    "CSV": "https://hackerone.com/teams/toloka_ai/assets/download_csv.csv",
+    "BURP": "https://hackerone.com/teams/toloka_ai/assets/download_burp_project_file.json"
+  },
+  {
+    "CSV": "https://hackerone.com/teams/vf-corporation-vdp/assets/download_csv.csv",
+    "BURP": "https://hackerone.com/teams/vf-corporation-vdp/assets/download_burp_project_file.json"
+  },
+  {
+    "CSV": "https://hackerone.com/teams/wallet_on_telegram/assets/download_csv.csv",
+    "BURP": "https://hackerone.com/teams/wallet_on_telegram/assets/download_burp_project_file.json"
+  },
+  {
+    "CSV": "https://hackerone.com/teams/whoop_bug_bounty/assets/download_csv.csv",
+    "BURP": "https://hackerone.com/teams/whoop_bug_bounty/assets/download_burp_project_file.json"
+  },
+  {
+    "CSV": "https://hackerone.com/teams/worldpay/assets/download_csv.csv",
+    "BURP": "https://hackerone.com/teams/worldpay/assets/download_burp_project_file.json"
+  },
+  {
+    "CSV": "https://hackerone.com/teams/zooplus/assets/download_csv.csv",
+    "BURP": "https://hackerone.com/teams/zooplus/assets/download_burp_project_file.json"
+  }
+]
