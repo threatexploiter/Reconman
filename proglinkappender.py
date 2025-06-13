@@ -46,4 +46,4 @@ final_links = existing + new_entries
 with open(links_path, 'w') as f:
     json.dump(final_links, f, indent=2)
 
-print(f"\n✅ links.json updated. Total programs: {len(final_links)} | Newly added: {len(new_entries)}")
+print(f"\n links.json updated. Total programs: {len(final_links)} | Newly added: {len(new_entries)}")

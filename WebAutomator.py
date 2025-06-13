@@ -33,7 +33,7 @@ for prog in programs:
     program_name = match.group(1)
     base_dir = os.path.join(os.getcwd(), program_name)
     def notify_discord(msg):
-        webhook = "https://discord.com/api/webhooks/1382571616973885450/goADcx-bKJ6E4VTiOw9EUemkpDzkPZzcI2E8_KekePnXXkg42ifdgNJPvkxZcUAf1dSo"
+        webhook = "your-discord-webhook"
         try:
             requests.post(webhook, json={"content": msg})
         except:
