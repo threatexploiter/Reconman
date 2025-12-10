@@ -11,3 +11,4 @@
 - Before running recon.sh make sure to change ur TOOLSDIR variable to where all your tools are located
 
 - Then run recon.sh To close out You can setup notify if you want 
+
